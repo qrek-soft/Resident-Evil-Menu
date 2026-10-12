@@ -1,10 +1,12 @@
 ABOUT > 
+
 This Menu was meant for a raspberry pi 2 B. 
 The menu is based on the 1996 resident evil. 
 This copy of the menu is written in python and have sounds directly from the game.
 Most of the features are not added due to me leaving the project and losing motivation.
 
 INSTALLATION >
+
 This is a zip file so all you need to do is unzip the file then press on menu.py or tun python3 in terminal. 
 
 IMAGES > 
